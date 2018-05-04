@@ -1,0 +1,30 @@
+$spacer: 1rem;
+
+p {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.coffeeCard {
+    padding: 2rem;
+    background-color: rgb(255, 255, 255);
+    border: 0 !important;
+}
+
+.no-gutters {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.noMargin {
+    margin: 0;
+}
+
+.coffeeCard p {
+    color: black;
+    font-size: 12px;
+}
+
+.headerFont {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
