@@ -46,3 +46,25 @@
 // own styles (feel free to add more)
 
 @import "base";
+
+.container {
+    background-color: white;
+    height: 100vh;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    color: gray;
+
+
+}
+
+h1 {
+    font-size: 3em;
+    color: black;
+}
+
+h2 {
+    font-size: 2em;
+    color: black;
+}
